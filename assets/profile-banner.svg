@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Satya Sai Ganesh — Developer profile</title>
+  <desc id="desc">Web development, cloud and DevOps. Building useful applications. Learning reliable infrastructure.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071120"/>
+      <stop offset="0.55" stop-color="#101f3b"/>
+      <stop offset="1" stop-color="#113149"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#38d7dc"/>
+      <stop offset="1" stop-color="#5a91ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#d9f6ff" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M824 0H1200V360H1020Z" fill="#092b43" fill-opacity="0.38"/>
+  <path d="M940 0H1200V360H1135Z" fill="#38d7dc" fill-opacity="0.035"/>
+  <rect x="56" y="58" width="46" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="93" fill="#75e8eb" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">WEB DEVELOPMENT / CLOUD &amp; DEVOPS</text>
+  <text x="52" y="162" fill="#f3f8ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Satya Sai Ganesh</text>
+  <text x="56" y="201" fill="#b6c9de" font-family="DejaVu Sans,Arial,sans-serif" font-size="18">Building useful applications.</text>
+  <text x="56" y="229" fill="#b6c9de" font-family="DejaVu Sans,Arial,sans-serif" font-size="18">Learning reliable infrastructure.</text>
+  <rect x="56" y="269" width="308" height="34" rx="17" fill="#172e46" stroke="#2b536c"/>
+  <text x="78" y="291" fill="#d3e8f6" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">VISAKHAPATNAM, INDIA</text>
+  <rect x="815" y="70" width="328" height="221" rx="14" fill="#091729" fill-opacity="0.82" stroke="#29445d"/>
+  <path d="M815 111H1143" stroke="#29445d"/>
+  <circle cx="837" cy="91" r="4" fill="#7892ac"/>
+  <circle cx="853" cy="91" r="4" fill="#4c647f"/>
+  <circle cx="869" cy="91" r="4" fill="#314a64"/>
+  <text x="837" y="146" fill="#708aa3" font-family="DejaVu Sans Mono,monospace" font-size="12">CURRENT WORK</text>
+  <text x="837" y="181" fill="#f3f8ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700">NexaMart</text>
+  <text x="837" y="205" fill="#9cb6cd" font-family="DejaVu Sans,Arial,sans-serif" font-size="13">Commerce / data / assistant</text>
+  <text x="837" y="244" fill="#f3f8ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700">Dayline</text>
+  <text x="837" y="268" fill="#9cb6cd" font-family="DejaVu Sans,Arial,sans-serif" font-size="13">News / APIs / weather</text>
+  <rect x="837" y="316" width="62" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
